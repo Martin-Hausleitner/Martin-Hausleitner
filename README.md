@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A Student of the higher technical collage of Leonding, Austria</h3>
+<h3 align="center">A student at the higher technical college of Leonding, Austria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martin-hausleitner&label=Profile%20views&color=0e75b6&style=flat" alt="martin-hausleitner" /> </p>
 
