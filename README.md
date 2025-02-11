@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin</h1>
-<h3 align="center">A student at the higher technical college of Leonding, Austria</h3>
+<h3 align="center">I am the CEO and Founder of the AI Startup servas.ai </h3>
 
 
 
